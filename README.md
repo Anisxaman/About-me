@@ -75,7 +75,7 @@ I am an articulate, confident person who relishes challenges and working under p
 <br>
 <br>
 [![Nafi Mahmud's github trophy](https://github-profile-trophy.vercel.app/?username=sourcecodebd&row=1)](https://github.com/sourcecodebd)
-[![Nafi Mahmud's Github Stats](https://github-readme-stats.vercel.app/api?username=sourcecodebd&theme=outrun&show_icons=true)](https://github.com/sourcecodebd) 
+[![Anishuzzaman's Github Stats](https://github-readme-stats.vercel.app/api?username=sourcecodebd&theme=outrun&show_icons=true)](https://github.com/sourcecodebd) 
 [![Nafi Mahmud's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sourcecodebd&theme=blue-green)](https://github.com/sourcecodebd)
 
 <summary>
