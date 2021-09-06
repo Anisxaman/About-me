@@ -14,7 +14,7 @@ I am an articulate, confident person who relishes challenges and working under p
 - I’m looking for help with Outstanding Video ideas.
 - Ask me about IT or any Tech-related stuff.
 - How to reach me: 
-### anisxaman@gmail.com, http://nafi.epizy.com/E-Pay
+### anisxaman@gmail.com 
 
 📫 Reach me out!
   
