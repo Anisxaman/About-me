@@ -2,7 +2,7 @@
 
 
 ### Hi I'm Enam Mohammed Anishuzzaman
-[![Profile views](https://gpvc.arturio.dev/about-me)](https://github.com/about-me) [![GitHub followers](https://img.shields.io/github/followers/about-me.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/about-me?tab=followers) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/about-me)
+[![Profile views](https://gpvc.arturio.dev/about-me)](https://github.com/anisxaman) [![GitHub followers](https://img.shields.io/github/followers/anisxaman.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/about-me?tab=followers) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/anisxaman)
 
 I am an articulate, confident person who relishes challenges and working under pressure. My greatest strengths are my research, communication and writing skills' am a highly competent IT professional with a proven track record in designing websites, web-developing and managing databases. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organizations.
 
@@ -14,7 +14,7 @@ I am an articulate, confident person who relishes challenges and working under p
 - I’m looking for help with Outstanding Video ideas.
 - Ask me about IT or any Tech-related stuff.
 - How to reach me: 
-### nafiaiubian17@gmail.com, http://nafi.epizy.com/E-Pay
+### anisxaman@gmail.com, http://nafi.epizy.com/E-Pay
 
 📫 Reach me out!
   
@@ -74,9 +74,9 @@ I am an articulate, confident person who relishes challenges and working under p
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />] [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br>
 <br>
-[![Anishuzzaman's github trophy](https://github-profile-trophy.vercel.app/?username=Anishuzzaman&row=1)](https://github.com/Anisxaman/about-me)
-[![Anishuzzaman's Github Stats](https://github-readme-stats.vercel.app/api?username=Anishuzzaman&theme=outrun&show_icons=true)](https://https://github.com/Anisxaman/about-me) 
-[![Anishuzzaman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Anishuzzaman&theme=blue-green)](https://github.com/Anisxaman.about-me)
+[![Anishuzzaman's github trophy](https://github-profile-trophy.vercel.app/?username=Anishuzzaman&row=1)](https://github.com/Anisxaman)
+[![Anishuzzaman's Github Stats](https://github-readme-stats.vercel.app/api?username=Anishuzzaman&theme=outrun&show_icons=true)](https://https://github.com/Anisxaman) 
+[![Anishuzzaman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Anishuzzaman&theme=blue-green)](https://github.com/Anisxaman)
 
 <summary>
   More stuff about me
