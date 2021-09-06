@@ -8,8 +8,8 @@ I am an articulate, confident person who relishes challenges and working under p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourcecodebd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/sourcecodebd)
 
-- I’m currently working on Professional Web Developer & Graphic Designer.
-- I’m currently learning about Backend  Development.
+- I’m currently working on Professional Web Developer .
+- I’m currently learning about Backend & frontend  Development.
 - I’m looking to collaborate on LinkedIn.
 - I’m looking for help with Outstanding Video ideas.
 - Ask me about IT or any Tech-related stuff.
